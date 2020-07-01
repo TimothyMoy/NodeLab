@@ -1,0 +1,24 @@
+{
+  "name": "nodelab",
+  "version": "1.0.0",
+  "description": "Intro to Node, practice creating routes",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimothyMoy/NodeLab.git"
+  },
+  "author": "Timothy Moy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimothyMoy/NodeLab/issues"
+  },
+  "homepage": "https://github.com/TimothyMoy/NodeLab#readme"
+}
