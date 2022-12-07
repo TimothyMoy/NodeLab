@@ -4,7 +4,7 @@
   "description": "Intro to Node, practice creating routes",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
